@@ -1,1 +1,0 @@
-console.log('Agregado script3.js');
